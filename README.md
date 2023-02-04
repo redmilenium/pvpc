@@ -23,7 +23,7 @@ Para deserializar el archivo JSON he utilizado la web https://arduinojson.org/v6
 
 Es muy facil conseguir los datos referentes al precio de la electricidad en la web con un simple movil, pero este proyecto puede ser la base para, con muy pocos cambios, añadir un rele que solo permita la conexion de un determinado electrodomestico durante las horas de menor coste de la electricidad. Por ejemplo: un termo de agua, un sistema que cargue unas baterias,etc. Esto ya lo dejo en vuestras manos.
 
-En el  soft solo necesitas configurar el SSID y la password y disponer del ide Platformio para grabar el ESP32.
+En el soft solo necesitas configurar el SSID y la password y disponer del ide Platformio para grabar el ESP32.
 
 
 
