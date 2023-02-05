@@ -17,7 +17,7 @@ Dichos datos se extraen directamente de REE (Red Electrica Española) en https:/
 
 Esto nos permite descargar un archivo JSON del que podemos obtener el coste de la electricidad PVPC.
 
-Los datos se actualizan para el día siguiente a partir de las 20:15. Es decir si nos descargamos el JSON antes de las 20:15 obtenemos los datos del dia en curso y a partir de esa hora, los de mañana.
+Los datos se actualizan para el día siguiente a partir de las 20:15. Es decir si nos descargamos el JSON antes de las 20:15 obtenemos los datos del dia en curso y a partir de esa hora, los de mañana. La hora de actualizacion no es exacta y suele retrasarse siempre...
 
 Para deserializar el archivo JSON he utilizado la web https://arduinojson.org/v6/assistant/#/ que me facilita mucho la parte de programación sobre el JSON.
 
